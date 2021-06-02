@@ -1,12 +1,7 @@
-## The OpenSea Ship's Log
+## The EMPIRE NFT Log
 
-A page listing recent auctions and bids on OpenSea, with the ability to buy items on sale right from the page.
+A page listing recent auctions and bids on EMPIRE, with the ability to buy items on sale right from the page.
 
-### Demo
-
-Check out a live version of this example [here](https://ships-log.herokuapp.com).
-
-![Ship's Log Screenshot](https://storage.googleapis.com/opensea-static/opensea-ships-log/screenshot.png "Ship's Log Screenshot")
 
 ### Instructions
 
